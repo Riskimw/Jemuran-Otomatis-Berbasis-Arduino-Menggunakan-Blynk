@@ -8,7 +8,7 @@ char pass[] = "5432167890";   // Password Wi-Fi
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
-#include <Servo.h>  // Tambahkan library Servo
+#include <Servo.h>  
 
 // Inisialisasi pin sensor
 const int hujanPin = D0;   
